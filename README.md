@@ -1,4 +1,4 @@
-# Real-Time Distributed Stock Prediction using Spark and Kafka
+# Real-Time Distributed Stock Prediction and Anomaly Detection
 
 ## 📌 Overview
 
